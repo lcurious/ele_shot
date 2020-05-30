@@ -8,13 +8,20 @@
 [ele_shotAndroid端](https://github.com/lcurious/ele_shot_android)
 
 ### 作者
-代码由[zyd213](https://github.com/zyd213)编写，[Ly_red](https://github.com/lyred193)协助编写
+代码由
+[zyd213](https://github.com/zyd213)编写，
+[Ly_red](https://github.com/lyred193)协助编写
 
-数据测试由 [zyd213](https://github.com/zyd213)和[Ly_red](https://github.com/lyred193)共同完成
+数据测试由 [zyd213](https://github.com/zyd213)和
+[Ly_red](https://github.com/lyred193)共同完成
 
-机械结构由[Ly_red](https://github.com/lyred193),[zyd213](https://github.com/zyd213)、[ZongyuanC](https://github.com/ZongyuanC)三人共同制作。
+机械结构由
+[Ly_red](https://github.com/lyred193)、
+[zyd213](https://github.com/zyd213)、
+[ZongyuanC](https://github.com/ZongyuanC)三人共同制作。
 
-Android端代码由[Ly_red](https://github.com/lyred193)和[ZongyuanC](https://github.com/ZongyuanC)共同完成
+Android端代码由[Ly_red](https://github.com/lyred193)  和
+[ZongyuanC](https://github.com/ZongyuanC)共同完成
 
 ### 控制芯片
 
